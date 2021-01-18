@@ -2,6 +2,7 @@
 First category from "70 C# coding challenges". This category contains 14 very easy projects.
 ---------------------------------------------------------------------------------------------
 All challenges are distributed into five categories --> 1.very easy; 2. easy; 3. intermediate; 4. hard; 5. very hard;
+Very easy, easy and intermediate categories are in .zip. Hard and very hard projects are in their own repository.
 ----------------------------------------------------------------------------------------------------------------------
 Very easy category contains 14 projects:
 1. Number guesser game;
